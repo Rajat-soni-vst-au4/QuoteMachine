@@ -1,30 +1,32 @@
 body{
-    background-color: #79d3c7;
+    background-color: #22a190;
 }
 .box{
 
     background-color: whitesmoke;
-    height: 200px;
-    width: 450px;
+    height: 250px;
+    width: 500px;
     border-radius: 10px;
     border: 4px solid #22a190;
     box-shadow:
-    -10px 0 80px rgb(245, 245, 245),        /* outer left magenta */
-    10px 0 80px rgb(254, 255, 251);         /* outer right cyan */
+    -10px 0 80px rgb(107, 223, 217),        /* outer left magenta */
+    10px 0 80px rgb(135, 235, 226);         /* outer right cyan */
     align-items: center;
     padding-left: 0%;
     margin: 15%  auto;
-    border-style:ridge;
+    border-style:groove;
 }
 h2{
-    margin: 20px 10px 20px 10px;
+    margin: 20px 10px 5px 10px;
     font-style: oblique;
     color: #065e52;;
+    text-align: center;
 }
 .author{
     color: #065e52;
     float: right;
     margin: 5px 10px 10px 0px;
+    font-size: 20px;
     
 }
 .lower-box{
@@ -32,14 +34,15 @@ h2{
 }
 .new-quote{
     float: right;
-    margin: 0px 10px;
+    margin: 0px 10px 0px 0px;
     color: whitesmoke;
     border-radius: 3px;
     border: 2px solid #22a190;
     padding: 6px;
-    background-color:#22a190
+    background-color:#22a190;
+    
 }
 a{
-    margin: 0px 0px 0px 10px;
+    margin: 0px 0px 0px 10px; 
 }
 
