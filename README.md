@@ -4,7 +4,7 @@ I made a Quote MAchine using HTML5, CSS3 and Javascript. Also I've used APi for 
 
 # Addtionally, here are some preview:
 
-![Alt text](../../../D:/Git/QuoteMachine/Assets/Screenshot%20(119).png)
+![](../Assets/Screenshot%20(119).png)
 ![Alt text](../../../D:/Git/QuoteMachine/Assets/Screenshot%20(120).png)
 ![Alt text](../../../D:/Git/QuoteMachine/Assets/Screenshot%20(121).png)
 
